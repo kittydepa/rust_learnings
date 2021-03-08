@@ -1,3 +1,5 @@
+// Ch 5 - Structs 
+
 use std::u32;
 
 // Program that caluclates the area of a rectangle
